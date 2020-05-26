@@ -15,6 +15,12 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+$\frac{1}{x}$
+
+
+$$\frac{1}{x}$$
+
+
 - Bulleted
 - List
 
